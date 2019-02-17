@@ -5,7 +5,7 @@ h2 { color: white; font-family: Helvetica; font-size: 16px; line-height: 32px; m
 a { color: #A1D2E0; font-weight: normal; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-#content {background-color: rgba(53,53,53,0.8);; width: 600px; padding: 20px 20px 20px 20px; margin: 50px auto 0 50px !important; }
+#content {background-color: rgba(53,53,53,0.8);; width: 500px; padding: 20px 20px 20px 20px; margin: 50px auto 0 50px !important; }
 img {border: none;}
 p.small { color: #547D91; font-family: Helvetica; font-size: 12px; line-height: 24px; margin-bottom: 22px; }
 
